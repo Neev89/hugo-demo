@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "example"
-paginate = 3
 
 [menu]
 

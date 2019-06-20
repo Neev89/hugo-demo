@@ -5,5 +5,8 @@ draft: true
 subtitle: "This is a forth post sub title"
 image: "img/image-4.jpg"
 tags: ["post"]
+categories: ["UI","UX"]
 ---
+
+This is a content 4
 
