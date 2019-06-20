@@ -4,7 +4,95 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/ui/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/ux/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/weekly-4/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/post/</loc>
+    <lastmod>2019-06-19T12:11:33+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/weekly-3/</loc>
+    <lastmod>2019-06-19T12:11:29+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/newsletter/</loc>
+    <lastmod>2019-06-19T12:11:29+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/weekly-2/</loc>
+    <lastmod>2019-06-19T12:11:25+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/weekly/</loc>
+    <lastmod>2019-06-19T12:11:25+05:45</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2019-06-19T12:10:12+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/news-1/</loc>
+    <lastmod>2019-06-19T12:10:12+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/news-2/</loc>
+    <lastmod>2019-06-19T12:10:12+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/news-3/</loc>
+    <lastmod>2019-06-19T12:10:12+05:45</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/weekly-1/</loc>
+    <lastmod>2019-06-19T12:10:12+05:45</lastmod>
   </url>
   
   <url>
@@ -12,21 +100,7 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>/blogs/</loc>
   </url>
   
 </urlset>

@@ -1,7 +1,6 @@
 ---
 title: "Weekly 1"
 date: 2019-06-19T12:10:12+05:45
-draft: true
 subtitle: "This is a first post sub title"
 image: "img/image-1.jpg"
 tags: ["weekly", "post", "newsletter"]
