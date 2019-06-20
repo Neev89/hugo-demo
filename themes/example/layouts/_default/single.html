@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div>
+    <div class="container mx-auto">
+        <div class="py-10">
+            <div class="mb-10">
+                <img class="block w-full object-cover" src="{{.Params.image | absURL}}" alt="{{.Title}}">
+            </div>
+            <h1 class="text-3xl mb-2 font-bold">{{.Title}}</h1>
+            <span class="text-sm text-gray-600">{{.Date.Format "2006-01-02"}}</span>
+            <div>
+                {{ $taxo := "tags" }} <!-- Use the plural form here -->
+                <ul class="mt-4 flex" id="{{ $taxo }}">
+                    {{ range .Param $taxo }}
+                    {{ $name := . }}
+                    {{ with $.Site.GetPage (printf "/%s/%s" $taxo ($name | urlize)) }}
+                    <li class="mr-2"><a
+                            class="rounded p-2 py-1 inline-block text-sm bg-gray-400 hover:bg-gray-600 hover:text-white"
+                            href="{{ .Permalink }}">{{$name }}</a></li>
+                    {{ end }}
+                    {{ end }}
+                </ul>
+            </div>
+            <div>
+                {{.Content}}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

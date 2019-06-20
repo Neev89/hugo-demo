@@ -1,0 +1,12 @@
+<!--Partial Footer-->
+<footer class="bg-gray-400 p-4 text-center">
+    <div class="container mx-auto">
+        {{ if $.Site.Copyright }}
+        <div class="">{{ $.Site.Copyright | safeHTML }}</div>
+        {{else}}
+        <div class="">
+            <span>© {{ now.Year }} Demo Hugo</span>
+        </div>
+        {{end}}
+    </div>
+</footer>
