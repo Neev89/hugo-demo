@@ -2,107 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11675484-731f-4da0-b414-76d46d56a3c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/ONC/assets/mix-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/layouts/partials/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_include-media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/base/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/components/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/layouts/_default/baseof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/base/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/components/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blogs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/ui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ui/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/ui/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ui/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/ux/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ux/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/ux/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ux/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/news-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/news-1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/news-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/news-2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/news/news-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/news-3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/weekly-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/weekly-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/weekly-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/weekly-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/newsletter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/newsletter/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/newsletter/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/post/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/weekly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/weekly/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/weekly/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/weekly/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ui/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ui/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ux/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ux/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.min.706e7a455f5c67f37207bd687bbd5b2b6d4aeaf96e5a7ceef7eb081880f6509e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.min.94eb62e9974253e5a52a9ff818a0ac57e3d86dfbb12ce58f1268b71a747b45d1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/tailwind.min.6d107d20fe0850f7dfe64886a1660baf804de9d80bbb0b2c5dc8f22fd0b1a2de.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/homepage-portfolio/portfolio-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/homepage-portfolio/portfolio-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/homepage-portfolio/portfolio-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/homepage-portfolio/portfolio-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/image-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/image-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/image-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/logo_transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/portfolio-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/portfolio-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/portfolio-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.73cc9e217459557ba2e980f754c475aa08a4cf4aacd0869deed314b1dcb993f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.bc36ea75337229935d0a90205273559ddd5c488f4c8e2dc057f5c8ff442b4def.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.f0ed11af7d4a9f6a9ee7025693e0060d7abd1c22ec4646a4794ad37c74443c24.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/manifest.326ed9f57e99850ae8d4bd2637691c1f45708f7d8ad4279a78bf2174dcf36f18.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor.1452ed6be3b1c4696155975af52b27fab94c85dedcb516480c6334857e0c653e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/vendor.d71c54efccd7fab14b14f5cf5fe46740f7783bc091bdc55165fbece9deb4b410.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/news-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/news-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/news-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/newsletter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/newsletter/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/post/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/weekly/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/weekly/index.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/tailwind.css_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/tailwind.css_d11fe7b62c27961c87ecd0f2490357b9.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/tailwind.css_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/tailwind.css_d11fe7b62c27961c87ecd0f2490357b9.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/archetypes/default.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/assets/css/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/assets/css/tailwind.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/assets/images/owl.video.play.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/assets/images/owl.video.play.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/assets/js/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/assets/js/manifest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/assets/js/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/assets/js/vendor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/assets/mix-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/_default/baseof.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/_default/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/_default/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/news/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/layouts/news/single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/section/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/layouts/section/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/layouts/tags/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/layouts/tags/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/src/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/src/js/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/src/js/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/src/sass/app.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/src/sass/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/src/sass/tailwind.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/static/img/image-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/static/img/image-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/static/img/image-6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/theme.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/webpack.mix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/example/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/manifest.js_8848f55d07695b7ff7188138f23d69e3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/manifest.js_8848f55d07695b7ff7188138f23d69e3.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/manifest.js_8848f55d07695b7ff7188138f23d69e3.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/manifest.js_8848f55d07695b7ff7188138f23d69e3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor.js_8848f55d07695b7ff7188138f23d69e3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor.js_8848f55d07695b7ff7188138f23d69e3.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor.js_8848f55d07695b7ff7188138f23d69e3.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/vendor.js_8848f55d07695b7ff7188138f23d69e3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ONC/assets/images/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ONC/layouts/news/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/ONC/layouts/section/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/onc/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/onc/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/onc/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/onc/layouts/partials/menu.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,33 +89,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/onc/layouts/index.html">
+        <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="267" column="61" selection-start-line="267" selection-start-column="61" selection-end-line="267" selection-end-column="61" />
-              <caret line="273" column="61" selection-start-line="273" selection-start-column="61" selection-end-line="273" selection-end-column="61" />
-              <caret line="279" column="61" selection-start-line="279" selection-start-column="61" selection-end-line="279" selection-end-column="61" />
-              <caret line="285" column="61" selection-start-line="285" selection-start-column="61" selection-end-line="285" selection-end-column="61" />
+            <state relative-caret-position="270">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding>
-                <element signature="n#section#0;n#!!top" />
-                <element signature="n#svg#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#svg#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#svg#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#svg#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#svg#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#style#0;n#rect#0;n#g#0;n#svg#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#svg#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
-                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+                <element signature="n#ul#1;n#div#0;n#div#0;n#footer#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -220,6 +176,17 @@
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -240,8 +207,23 @@
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="onc" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_default" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -317,18 +299,18 @@
       <workItem from="1561025852989" duration="1273000" />
       <workItem from="1561178804500" duration="244000" />
       <workItem from="1561264532613" duration="3328000" />
-      <workItem from="1561271926673" duration="1527000" />
+      <workItem from="1561271926673" duration="1920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10333000" />
+    <option name="totallyTimeSpent" value="10726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18638574" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29983792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -524,13 +506,6 @@
     <entry file="file://$PROJECT_DIR$/themes/example/resources/src/js/main.js" />
     <entry file="file://$PROJECT_DIR$/themes/example/src/sass/style.scss" />
     <entry file="file://$PROJECT_DIR$/themes/example/index.html" />
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/layout/_hero.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -549,18 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="n#ul#1;n#div#0;n#div#0;n#footer#0;n#!!top" />
-            <element signature="e#2482#2488#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -646,23 +609,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#header#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/onc/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="267" column="61" selection-start-line="267" selection-start-column="61" selection-end-line="267" selection-end-column="61" />
-          <caret line="273" column="61" selection-start-line="273" selection-start-column="61" selection-end-line="273" selection-end-column="61" />
-          <caret line="279" column="61" selection-start-line="279" selection-start-column="61" selection-end-line="279" selection-end-column="61" />
-          <caret line="285" column="61" selection-start-line="285" selection-start-column="61" selection-end-line="285" selection-end-column="61" />
+        <state relative-caret-position="243">
+          <caret line="297" lean-forward="true" selection-start-line="297" selection-end-line="297" />
           <folding>
             <element signature="n#section#0;n#!!top" />
             <element signature="n#svg#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
@@ -679,10 +629,39 @@
             <element signature="n#style#0;n#circle#0;n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
             <element signature="n#style#0;n#circle#0;n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#!!top" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#ul#1;n#div#0;n#div#0;n#footer#0;n#!!top" />
           </folding>
         </state>
       </provider>
