@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11675484-731f-4da0-b414-76d46d56a3c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/onc/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/onc/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/onc/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/oneclicktheme/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/oneclicktheme/layouts/partials/head.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/head.html">
+        <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/partials/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="216">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -31,6 +27,9 @@
     <findStrings>
       <find>main</find>
       <find>.site-footer</find>
+      <find>tags</find>
+      <find>isset</find>
+      <find>homepage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,10 +71,14 @@
         <option value="$PROJECT_DIR$/themes/onc/layouts/_default/baseof.html" />
         <option value="$PROJECT_DIR$/themes/onc/src/sass/base/_helpers.scss" />
         <option value="$PROJECT_DIR$/themes/onc/layouts/partials/header.html" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/onc/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/themes/onc/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/onc/layouts/partials/head.html" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/themes/oneclicktheme/layouts/_default/list.html" />
+        <option value="$PROJECT_DIR$/themes/oneclicktheme/layouts/_default/single.html" />
+        <option value="$PROJECT_DIR$/themes/oneclicktheme/layouts/index.html" />
+        <option value="$PROJECT_DIR$/themes/oneclicktheme/layouts/partials/head.html" />
       </list>
     </option>
   </component>
@@ -102,41 +105,38 @@
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="oneclicktheme" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="onc" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="oneclicktheme" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="onc" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="_default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="oneclicktheme" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="oneclicktheme" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -156,6 +156,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/oneclicktheme/static/img" />
       <recent name="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -192,18 +193,18 @@
       <workItem from="1561025852989" duration="1273000" />
       <workItem from="1561178804500" duration="244000" />
       <workItem from="1561264532613" duration="3328000" />
-      <workItem from="1561271926673" duration="2615000" />
+      <workItem from="1561271926673" duration="3388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11421000" />
+    <option name="totallyTimeSpent" value="12194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17098865" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20259319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -270,7 +271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/about.md" />
     <entry file="file://$PROJECT_DIR$/themes/onc/layouts/_default/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -399,103 +399,96 @@
     <entry file="file://$PROJECT_DIR$/themes/example/resources/src/js/main.js" />
     <entry file="file://$PROJECT_DIR$/themes/example/src/sass/style.scss" />
     <entry file="file://$PROJECT_DIR$/themes/example/index.html" />
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/layout/_hero.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/layout/_hero.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/base/_typography.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/base/_typography.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/js/app.js">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/app.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/layout/_footer.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/layout/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/package.json">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/webpack.mix.js">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/webpack.mix.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/_normalize.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/_normalize.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5313">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/layout/_main.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/layout/_main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/components/_buttons.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/components/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2289">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/components/_forms.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/components/_forms.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2154" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/base/_base.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/base/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/base/_helpers.scss">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/src/sass/base/_helpers.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/header.html">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
@@ -505,7 +498,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/footer.html">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
@@ -516,17 +509,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/_default/baseof.html">
+    <entry file="file://$PROJECT_DIR$/public/tags/index.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="324">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/index.html">
+    <entry file="file://$PROJECT_DIR$/public/categories/index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="256" column="11" selection-start-line="256" selection-start-column="11" selection-end-line="256" selection-end-column="11" />
+        <state relative-caret-position="216">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/_default/baseof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/_default/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="9" lean-forward="true" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/_default/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="261" column="39" lean-forward="true" selection-start-line="261" selection-start-column="39" selection-end-line="261" selection-end-column="39" />
           <folding>
             <element signature="n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" />
             <element signature="n#svg#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" />
@@ -543,7 +582,6 @@
             <element signature="n#style#0;n#circle#0;n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" />
             <element signature="n#style#0;n#circle#0;n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#section#1;n#div#0;n#!!top" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
@@ -552,10 +590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/head.html">
+    <entry file="file://$PROJECT_DIR$/themes/oneclicktheme/layouts/partials/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="216">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
