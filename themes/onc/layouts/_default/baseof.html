@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+{{ partial "head.html" }}
+
+<body class="is-boxed has-animations antialiased font-body">
+<div class="body-wrap boxed-container">
+    {{ partial "header" . }}
+    <main>
+        {{ block "main" . }} {{end}}
+    </main>
+
+    {{ partial "footer" . }}
+</div>
+
+<!-- Scripts -->
+{{ $scripts := resources.Get "js/manifest.js" | fingerprint }}
+{{ with $scripts }}
+<script type="text/javascript" src="{{ .Permalink | relURL }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" defer></script>
+{{ $.Scratch.Set "$scripts" . }}
+{{ end }}
+
+{{ $scripts := resources.Get "js/vendor.js" | fingerprint }}
+{{ with $scripts }}
+<script type="text/javascript" src="{{ .Permalink | relURL }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" defer></script>
+{{ $.Scratch.Set "scripts" . }}
+{{ end }}
+
+<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+
+{{ $scripts := resources.Get "js/app.js" | fingerprint }}
+{{ with $scripts }}
+<script type="text/javascript" src="{{ .Permalink | relURL }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" defer></script>
+{{ $.Scratch.Set "scripts" . }}
+{{ end }}
+</body>
+
+</html>

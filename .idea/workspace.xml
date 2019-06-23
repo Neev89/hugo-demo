@@ -2,21 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11675484-731f-4da0-b414-76d46d56a3c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/ONC/assets/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/layouts/partials/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_include-media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/base/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/ONC/src/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/layouts/_default/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/layouts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/src/sass/components/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio/portfolio-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/onc/static/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/news/news-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/news/news-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/news/news-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/news/news-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/news/news-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/news/news-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/weekly-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/weekly-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/weekly-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/weekly-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/weekly-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/weekly-3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/weekly-4.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/weekly-4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blogs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/blogs/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ui/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ui/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ui/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ui/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ux/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ux/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/ux/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/ux/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/news-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/news-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/news-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/news-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/news/news-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/news/news-3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/weekly-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/weekly-4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/newsletter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/newsletter/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/newsletter/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/post/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/weekly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/weekly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/weekly/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/weekly/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/app.css_d11fe7b62c27961c87ecd0f2490357b9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/app.js_8848f55d07695b7ff7188138f23d69e3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/archetypes/default.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/assets/css/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/assets/css/tailwind.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/assets/images/owl.video.play.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/assets/images/owl.video.play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/assets/js/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/assets/js/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/assets/js/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/assets/js/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/assets/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/_default/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/news/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/layouts/news/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/partials/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/layouts/partials/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/section/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/layouts/section/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/layouts/tags/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/layouts/tags/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/src/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/src/js/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/src/js/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/src/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/src/sass/tailwind.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/src/sass/tailwind.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/static/img/image-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/static/img/image-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/onc/static/img/image-6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/static/img/image-7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/static/img/image-7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/theme.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/theme.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/example/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ONC/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,18 +113,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/posts/weekly-4.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/themes/onc/layouts/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="267" column="61" selection-start-line="267" selection-start-column="61" selection-end-line="267" selection-end-column="61" />
+              <caret line="273" column="61" selection-start-line="273" selection-start-column="61" selection-end-line="273" selection-end-column="61" />
+              <caret line="279" column="61" selection-start-line="279" selection-start-column="61" selection-end-line="279" selection-end-column="61" />
+              <caret line="285" column="61" selection-start-line="285" selection-start-column="61" selection-end-line="285" selection-end-column="61" />
+              <folding>
+                <element signature="n#section#0;n#!!top" />
+                <element signature="n#svg#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#svg#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#svg#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#svg#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#svg#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#style#0;n#rect#0;n#g#0;n#svg#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#svg#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+                <element signature="n#style#0;n#circle#0;n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>.site-footer</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,19 +159,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/example/layouts/partials/header.html" />
-        <option value="$PROJECT_DIR$/themes/example/layouts/_default/baseof.html" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/content/news/_index.md" />
         <option value="$PROJECT_DIR$/content/blogs/_index.md" />
         <option value="$PROJECT_DIR$/themes/example/layouts/_default/list.html" />
         <option value="$PROJECT_DIR$/themes/example/layouts/news/list.html" />
-        <option value="$PROJECT_DIR$/themes/example/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/example/layouts/tags/list.html" />
         <option value="$PROJECT_DIR$/content/about.md" />
         <option value="$PROJECT_DIR$/themes/example/layouts/section/about.html" />
         <option value="$PROJECT_DIR$/content/about/_index.md" />
-        <option value="$PROJECT_DIR$/static/admin/index.html" />
         <option value="$PROJECT_DIR$/static/admin/config.yml" />
         <option value="$PROJECT_DIR$/content/news/news-1.md" />
         <option value="$PROJECT_DIR$/content/news/news-3.md" />
@@ -67,17 +175,35 @@
         <option value="$PROJECT_DIR$/content/posts/weekly-2.md" />
         <option value="$PROJECT_DIR$/content/posts/weekly-3.md" />
         <option value="$PROJECT_DIR$/content/posts/weekly-4.md" />
+        <option value="$PROJECT_DIR$/static/admin/index.html" />
+        <option value="$PROJECT_DIR$/themes/example/src/sass/style.scss" />
+        <option value="$PROJECT_DIR$/themes/example/src/sass/app.scss" />
+        <option value="$PROJECT_DIR$/themes/example/index.html" />
+        <option value="$PROJECT_DIR$/themes/example/layouts/partials/head.html" />
+        <option value="$PROJECT_DIR$/themes/example/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/themes/example/layouts/_default/baseof.html" />
+        <option value="$PROJECT_DIR$/themes/example/src/sass/layout/_hero.scss" />
+        <option value="$PROJECT_DIR$/themes/example/src/sass/layout/_main.scss" />
+        <option value="$PROJECT_DIR$/themes/example/layouts/partials/header.html" />
+        <option value="$PROJECT_DIR$/themes/example/src/js/app.js" />
+        <option value="$PROJECT_DIR$/themes/example/layouts/partials/footer.html" />
+        <option value="$PROJECT_DIR$/themes/example/src/sass/layout/_footer.scss" />
+        <option value="$PROJECT_DIR$/themes/example/layouts/index.html" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/themes/onc/layouts/_default/baseof.html" />
+        <option value="$PROJECT_DIR$/themes/onc/src/sass/base/_helpers.scss" />
+        <option value="$PROJECT_DIR$/themes/onc/layouts/partials/header.html" />
+        <option value="$PROJECT_DIR$/themes/onc/layouts/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="y" value="48" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="4" />
     <option name="width" value="1276" />
-    <option name="height" value="697" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -94,48 +220,50 @@
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hugo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hugo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="onc" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +276,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/onc/static/img" />
+      <recent name="$PROJECT_DIR$/themes/onc/static/img/homepage-portfolio" />
+      <recent name="$PROJECT_DIR$/themes/example/static/img" />
+      <recent name="$PROJECT_DIR$/themes/example" />
+      <recent name="$PROJECT_DIR$/themes/example/src/sass" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,18 +314,21 @@
       <option name="presentableId" value="Default" />
       <updated>1561019558920</updated>
       <workItem from="1561019560383" duration="3961000" />
-      <workItem from="1561025852989" duration="719000" />
+      <workItem from="1561025852989" duration="1273000" />
+      <workItem from="1561178804500" duration="244000" />
+      <workItem from="1561264532613" duration="3328000" />
+      <workItem from="1561271926673" duration="1527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4680000" />
+    <option name="totallyTimeSpent" value="10333000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1276" height="697" extended-state="0" />
+    <frame x="4" y="23" width="1276" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15559158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18638574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,38 +353,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/example/webpack.mix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/partials/menu.html">
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/_default/baseof.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -265,39 +381,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/example/layouts/news/list.html" />
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/tags/list.html">
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/tags/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/_default/list.html">
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/_default/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
-          <folding>
-            <element signature="n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/about.md" />
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/_default/single.html">
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/_default/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
@@ -314,24 +413,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/layouts/section/about.html">
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/section/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/example/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/admin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -415,10 +500,190 @@
     <entry file="file://$PROJECT_DIR$/content/posts/weekly-4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="54">
-            <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <first_editor relative-caret-position="216">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="80" lean-forward="true" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/example/resources/src/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/themes/example/src/sass/style.scss" />
+    <entry file="file://$PROJECT_DIR$/themes/example/index.html" />
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/layout/_hero.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="141" column="5" lean-forward="true" selection-start-line="141" selection-start-column="5" selection-end-line="141" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="n#ul#1;n#div#0;n#div#0;n#footer#0;n#!!top" />
+            <element signature="e#2482#2488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/layout/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/webpack.mix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/_default/baseof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5313">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/layout/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/components/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2289">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/components/_forms.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2154" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/base/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/src/sass/base/_helpers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/onc/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="267" column="61" selection-start-line="267" selection-start-column="61" selection-end-line="267" selection-end-column="61" />
+          <caret line="273" column="61" selection-start-line="273" selection-start-column="61" selection-end-line="273" selection-end-column="61" />
+          <caret line="279" column="61" selection-start-line="279" selection-start-column="61" selection-end-line="279" selection-end-column="61" />
+          <caret line="285" column="61" selection-start-line="285" selection-start-column="61" selection-end-line="285" selection-end-column="61" />
+          <folding>
+            <element signature="n#section#0;n#!!top" />
+            <element signature="n#svg#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#svg#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#svg#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#style#0;n#circle#0;n#svg#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#svg#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#style#0;n#circle#0;n#svg#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#svg#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#style#0;n#rect#0;n#g#0;n#svg#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#svg#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#style#0;n#circle#0;n#svg#0;n#div#5;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#style#0;n#circle#0;n#svg#0;n#div#6;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#style#0;n#circle#0;n#svg#0;n#div#7;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
